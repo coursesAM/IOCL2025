@@ -1,5 +1,5 @@
-# Machine Learning in Python/TensorFlow (or PyTorch) from Scratch 
-Sponsored by **Center for Railway Information Systems (CRIS)**
+# Applied Machine Learning: Foundation to Frontier 
+Sponsored by **Indian Oil Corporation Limited (IOCL)**
 
 
 Welcome to the course website!
@@ -13,8 +13,8 @@ This is an introductory course to machine learning for CRIS participants with so
 - Neural networks (ANN, CNN, RNN)
 - k-means clustering
 
-Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn and PyTorch/TensorFlow.
-The course includes theory and practice (notably the practicals (P)). 
+Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn, and TensorFlow/PyTorch.
+The course includes theory and practice (notably the tutorial (T)). 
 
 **Note**: Participants must have wifi access and a Google account to work with Google Colab.
 
