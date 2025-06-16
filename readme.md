@@ -10,8 +10,8 @@ This is an introductory course to machine learning for IOCL IS officers with som
 - Classification via logistic regression
 - Decision trees
 - Neural networks (ANN, CNN, RNN)
-- Unsupervised, semi-supervised and self-supervised Learning
-- Advanced ML models like Foundation Models, Diffusion, Attention-based Transformers
+- Unsupervised, semi-supervised, and self-supervised Learning
+- Advanced ML models like Foundation Models, Diffusion, and Attention-based Transformers
 
 Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn, and TensorFlow.
 The course includes theory and practice (notably the tutorial (T)). 
@@ -30,7 +30,8 @@ The course includes theory and practice (notably the tutorial (T)).
 **Participants:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
 
 <br> <br>
-![image](https://github.com/coursesAM/CRIS2024/assets/109568856/4ab3910d-6044-4b56-a66f-bfb0964ba97c)
+![image](https://github.com/user-attachments/assets/55646f54-ccac-4792-8a76-5198506a6ce4)
+
 
 <br> <br>
 # Lectures
