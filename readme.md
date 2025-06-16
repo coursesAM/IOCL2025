@@ -5,15 +5,15 @@ Sponsored by **Indian Oil Corporation Limited (IOCL)**
 Welcome to the course website!
 
 ## Course Content
-This is an introductory course to machine learning for CRIS participants with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
+This is an introductory course to machine learning for IOCL IS officers with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning and generative AI. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
 - Classification via logistic regression
-- Support Vector Machine 
 - Decision trees
 - Neural networks (ANN, CNN, RNN)
-- k-means clustering
+- Unsupervised, semi-supervised and self-supervised Learning
+- Advanced ML models like Foundation Models, Diffusion, Attention-based Transformers
 
-Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn, and TensorFlow/PyTorch.
+Heavy focus will be placed on understanding coding for ML using Python, NumPy, Pandas, Scikit-learn, and TensorFlow.
 The course includes theory and practice (notably the tutorial (T)). 
 
 **Note**: Participants must have wifi access and a Google account to work with Google Colab.
@@ -21,7 +21,7 @@ The course includes theory and practice (notably the tutorial (T)).
 <br> <br>
 **Instructors:** 
 * Rajdip Nayek [RN] (rajdipn@am.iitd.ac.in) 
-* Souvik Chakraborty [SC] (souvik@am.iitd.ac.in)                 
+* Sudipan Saha [SS] (sahasudipan@scai.iitd.ac.in)                 
 
 <br> <br>
 **Venue:** IIT Delhi, LHC 212 (Conference Room)
