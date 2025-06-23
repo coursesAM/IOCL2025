@@ -40,6 +40,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |Instructor| Topic | Lecture Notes | 
 |:----------:|:------------------------------:|:------------------:|
 |RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
+|RN (blue) | Linear Models (Theory and Practical) | [LinearModels](https://colab.research.google.com/drive/18GFrWbPOkXFvV39eL2zS6wScrnJYIm6u?usp=sharing)
 
 
 <!-- 
