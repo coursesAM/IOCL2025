@@ -27,10 +27,11 @@ The course includes theory and practice (notably the tutorial (T)).
 **Venue:** IIT Delhi, LHC 212 (Conference Room)
 <br> <br>
 
-**Participants:** [Link here](https://docs.google.com/spreadsheets/d/1oaMR--Ofa2Eu0D2LOyaoEWSXh9rScNR0IEASY-Cl-B8/edit?usp=sharing)
+**Participants:** [Link here](https://docs.google.com/spreadsheets/d/1kT7rhFR2mOAlL2Dq8UzE2w4BxsCTT2GiysQEKSrY0nA/edit?usp=sharing)
 
 <br> <br>
-![image](https://github.com/user-attachments/assets/55646f54-ccac-4792-8a76-5198506a6ce4)
+![image](https://github.com/user-attachments/assets/c67f7beb-7cb6-495d-a2a8-8c673feb65d0)
+
 
 
 <br> <br>
@@ -38,7 +39,10 @@ The course includes theory and practice (notably the tutorial (T)).
 
 |Instructor| Topic | Lecture Notes | 
 |:----------:|:------------------------------:|:------------------:|
-|SC (yellow) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
+|RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
+
+
+<!-- 
 |RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
 |SC (yellow) | Linear Regression <br> Logistic Regression | [Lecture](Lectures/Lecture-3_cris.pdf) | 
 |RN (blue) | Pandas and Matplotlib Crash Course| [Pandas_Matplotlib](https://colab.research.google.com/drive/1sl88MXV_6cictN1vaSEd6J_82swB9zYt)|
@@ -62,7 +66,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | KMeans Clustering (with Sklearn) | [KMeans_sklearn](https://colab.research.google.com/drive/1naGl6oFhWhpvv5c0ManJdHmQcKFcoGgR?usp=sharing)|
 |RN (blue) | Random Forests |[Random Forests](https://colab.research.google.com/drive/1BpZ3QEbbT8od9lbjEvhF9T7zAvFKy4Q8?usp=sharing) |
 |RN (blue) | Save and Load Models | [Save Models](https://colab.research.google.com/drive/1WodtWy_jgKeP2Sr1DJ9ovnvrtzOC-ZRq?usp=sharing) | 
-|RN (blue) | User Aspects of ML | [User Practices](Lectures/UserAspectsML.pdf)|
+|RN (blue) | User Aspects of ML | [User Practices](Lectures/UserAspectsML.pdf)| 
 
 <br> <br>
 
@@ -80,7 +84,7 @@ The course includes theory and practice (notably the tutorial (T)).
 | Support Vector Machine| [L8](https://github.com/coursesAM/APL405W24/blob/6196cdf0a18eccf77b53ee45dfd6b3618ceba7fb/Lectures/Lecture18.pdf) |
 | Ensemble Methods | [L9](Lectures/Ensembles.pdf) |
 | Random Forests | [L10](Lectures/RF.pdf) |
-
+-->
 
 <br> <br>
 
