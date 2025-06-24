@@ -41,7 +41,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |:----------:|:------------------------------:|:------------------:|
 |RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1_cris.pdf) | 
 |RN (blue) | Linear Models (Theory and Practical) | [LinearModels](https://colab.research.google.com/drive/18GFrWbPOkXFvV39eL2zS6wScrnJYIm6u?usp=sharing)
-
+|RN (blue) | Logistic Regression (Theory and Practical) | [LogisticRegression](https://colab.research.google.com/drive/19FIlq1tHcv4PYV8wBJ8LwlK6zGYi2e1E?usp=sharing)
 
 <!-- 
 |RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
