@@ -1,4 +1,4 @@
-# Applied Machine Learning: Foundation to Frontier 
+# Applied Machine Learning: Foundations to Frontier 
 Sponsored by **Indian Oil Corporation Limited (IOCL)**
 
 
