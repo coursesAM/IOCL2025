@@ -41,7 +41,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |:----------:|:------------------------------:|:------------------:|
 |RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1.pdf) | 
 |RN (blue) | Linear Models (Theory and Practical) | [LinearModels](https://colab.research.google.com/drive/18GFrWbPOkXFvV39eL2zS6wScrnJYIm6u?usp=sharing) |
-|RN (blue) | Linear Regression with regularization (Practical) | [LinReg](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing) |
+|RN (blue) | Linear Regression with regularization (Practical) | [LinReg](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing), [LinReg PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
 |RN (blue) | Logistic Regression (Theory) | [LogReg(T)](Lectures/IOCL_logistic_regression.pdf) |
 |RN (blue) | Logistic Regression (Practical) | [LogReg(P)](https://colab.research.google.com/drive/19FIlq1tHcv4PYV8wBJ8LwlK6zGYi2e1E?usp=sharing) |
 
