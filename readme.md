@@ -50,7 +50,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | ANN with Keras/TensorFlow2 (Practical) | [Artificial Neural Networks](https://drive.google.com/file/d/1p06-aAuL4aPdQmhinBhDeNyYFlu31DNY/view?usp=sharing) | 
 |RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Convolutional Neural Networks](https://drive.google.com/file/d/1Y18fPw4aECoLOINi8Jdj2NM37uvM5tvk/view?usp=sharing) | 
 |RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
-
+|RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
 <!-- 
 |RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
 |SC (yellow) | Linear Regression <br> Logistic Regression | [Lecture](Lectures/Lecture-3_cris.pdf) | 
