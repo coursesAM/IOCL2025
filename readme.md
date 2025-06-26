@@ -4,6 +4,8 @@ Sponsored by **Indian Oil Corporation Limited (IOCL)**
 
 Welcome to the course website!
 
+
+
 ## Course Content
 This is an introductory course to machine learning for IOCL IS officers with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning and generative AI. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
