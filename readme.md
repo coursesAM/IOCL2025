@@ -47,6 +47,8 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | Linear Regression with regularization (Practical) | [LinReg](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing), [LinReg PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
 |RN (blue) | Logistic Regression (Theory) | [LogReg(T)](Lectures/IOCL_logistic_regression.pdf) |
 |RN (blue) | Logistic Regression (Practical) | [LogReg(P)](https://colab.research.google.com/drive/19FIlq1tHcv4PYV8wBJ8LwlK6zGYi2e1E?usp=sharing) |
+|RN (blue) | ANN with Keras/TensorFlow2 (Practical) | [Artificial Neural Networks](https://drive.google.com/file/d/1p06-aAuL4aPdQmhinBhDeNyYFlu31DNY/view?usp=sharing) | 
+|RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Artificial Neural Networks](https://drive.google.com/file/d/1p06-aAuL4aPdQmhinBhDeNyYFlu31DNY/view?usp=sharing) | 
 
 <!-- 
 |RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
