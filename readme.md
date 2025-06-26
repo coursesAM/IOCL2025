@@ -4,6 +4,7 @@ Sponsored by **Indian Oil Corporation Limited (IOCL)**
 
 Welcome to the course website!
 
+![image](https://github.com/IOCL_overview.png)
 
 
 ## Course Content
