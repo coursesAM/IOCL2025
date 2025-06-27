@@ -51,6 +51,56 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Convolutional Neural Networks](https://drive.google.com/file/d/1Y18fPw4aECoLOINi8Jdj2NM37uvM5tvk/view?usp=sharing) | 
 |RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
 |RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
+
+
+<br> <br>
+# Take-home Assignment
+Data cleaning and preprocessing are essential steps in any data analysis or machine learning project. This repository provides examples and tutorials on how to perform data cleaning and preprocessing using Python.
+
+## What is Data Cleaning?
+
+Data cleaning is the process of detecting and correcting errors, inconsistencies, and missing values in a dataset to improve its quality and accuracy. It involves various tasks such as:
+
+- Handling missing data
+- Removing duplicates
+- Correcting erroneous values
+- Standardizing data formats
+- Dealing with outliers
+
+## What is Data Preprocessing?
+
+Data preprocessing involves transforming raw data into a format that is suitable for analysis or modeling. It includes tasks such as:
+
+- Feature scaling
+- Encoding categorical variables
+- Feature extraction
+- Dimensionality reduction
+- Splitting data into training and testing sets
+
+## Tools and Libraries Used
+
+In this repository, we use the following Python libraries for data cleaning and preprocessing:
+
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computing and array operations.
+- **Scikit-learn**: For machine learning algorithms and preprocessing techniques.
+
+Here is a [SampleDataset](https://raw.githubusercontent.com/coursesAM/IOCL2025/refs/heads/main/datasets/Sample_Data.csv) and a [SampleNotebook](https://colab.research.google.com/drive/1wYRGchDSLlCUX9ofM_EhOzFd2LgwHhHU?usp=sharing) for data cleaning and preprocessing.
+
+Please repeat the task using this [real dataset](https://raw.githubusercontent.com/coursesAM/IOCL2025/refs/heads/main/datasets/AB_NYC_2019.csv) and share the link to your Colab notebook with rajdipn@iitd.ac.in 
+
+|:----------:|:------------------------------:|:------------------:|
+|RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1.pdf) | 
+|RN (blue) | Linear Models (Theory and Practical) | [LinearModels](https://colab.research.google.com/drive/18GFrWbPOkXFvV39eL2zS6wScrnJYIm6u?usp=sharing) |
+|RN (blue) | Linear Regression with regularization (Practical) | [LinReg](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing), [LinReg PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
+|RN (blue) | Logistic Regression (Theory) | [LogReg(T)](Lectures/IOCL_logistic_regression.pdf) |
+|RN (blue) | Logistic Regression (Practical) | [LogReg(P)](https://colab.research.google.com/drive/19FIlq1tHcv4PYV8wBJ8LwlK6zGYi2e1E?usp=sharing) |
+|RN (blue) | ANN with Keras/TensorFlow2 (Practical) | [Artificial Neural Networks](https://drive.google.com/file/d/1p06-aAuL4aPdQmhinBhDeNyYFlu31DNY/view?usp=sharing) | 
+|RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Convolutional Neural Networks](https://drive.google.com/file/d/1Y18fPw4aECoLOINi8Jdj2NM37uvM5tvk/view?usp=sharing) | 
+|RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
+|RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
+
+
 <!-- 
 |RN (blue) | Python and NumPy Crash Course | [NumPy](https://colab.research.google.com/drive/1MvKS3JogqtJHrBfzyFMOcOa0eVskMB4S#scrollTo=el7ocr07qte-) | 
 |SC (yellow) | Linear Regression <br> Logistic Regression | [Lecture](Lectures/Lecture-3_cris.pdf) | 
