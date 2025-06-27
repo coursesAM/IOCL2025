@@ -52,7 +52,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
 |RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
 |RN (blue) | Acccuracy Metrics for Binary Classification (Theory) | [Metrics](Lectures/ClassificationMetrics.pdf) |
-
+|RN (blue) | End-to-End ML Project (Theory and Practical) | [End-to-End-Project](https://colab.research.google.com/drive/1_CoEiFZh-yKhPPbw9_YC-3VfZJ9eowBe?usp=sharing)
 
 <br> <br>
 # Take-home Assignment
