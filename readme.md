@@ -55,9 +55,7 @@ The course includes theory and practice (notably the tutorial (T)).
 
 <br> <br>
 # Take-home Assignment
-Data cleaning and preprocessing are essential steps in any data analysis or machine learning project. This repository provides examples and tutorials on how to perform data cleaning and preprocessing using Python.
-
-## What is Data Cleaning?
+Data cleaning and preprocessing are essential steps in any data analysis or machine learning project.
 
 Data cleaning is the process of detecting and correcting errors, inconsistencies, and missing values in a dataset to improve its quality and accuracy. It involves various tasks such as:
 
@@ -67,8 +65,6 @@ Data cleaning is the process of detecting and correcting errors, inconsistencies
 - Standardizing data formats
 - Dealing with outliers
 
-## What is Data Preprocessing?
-
 Data preprocessing involves transforming raw data into a format that is suitable for analysis or modeling. It includes tasks such as:
 
 - Feature scaling
@@ -77,9 +73,7 @@ Data preprocessing involves transforming raw data into a format that is suitable
 - Dimensionality reduction
 - Splitting data into training and testing sets
 
-## Tools and Libraries Used
-
-In this repository, we use the following Python libraries for data cleaning and preprocessing:
+We use the following Python libraries for data cleaning and preprocessing:
 
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computing and array operations.
