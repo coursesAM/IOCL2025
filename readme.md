@@ -83,16 +83,6 @@ Here is a [SampleDataset](https://raw.githubusercontent.com/coursesAM/IOCL2025/r
 
 Please repeat the task using this [real dataset](https://raw.githubusercontent.com/coursesAM/IOCL2025/refs/heads/main/datasets/AB_NYC_2019.csv) and share the link to your Colab notebook with rajdipn@iitd.ac.in 
 
-|:----------:|:------------------------------:|:------------------:|
-|RN (blue) | Introduction to AI/ML | [Lecture](Lectures/Lecture-1.pdf) | 
-|RN (blue) | Linear Models (Theory and Practical) | [LinearModels](https://colab.research.google.com/drive/18GFrWbPOkXFvV39eL2zS6wScrnJYIm6u?usp=sharing) |
-|RN (blue) | Linear Regression with regularization (Practical) | [LinReg](https://colab.research.google.com/drive/1s98smWAdOY0RFAMRgZRnT2y-9q0BIDDx?usp=sharing), [LinReg PyTorch](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing) |
-|RN (blue) | Logistic Regression (Theory) | [LogReg(T)](Lectures/IOCL_logistic_regression.pdf) |
-|RN (blue) | Logistic Regression (Practical) | [LogReg(P)](https://colab.research.google.com/drive/19FIlq1tHcv4PYV8wBJ8LwlK6zGYi2e1E?usp=sharing) |
-|RN (blue) | ANN with Keras/TensorFlow2 (Practical) | [Artificial Neural Networks](https://drive.google.com/file/d/1p06-aAuL4aPdQmhinBhDeNyYFlu31DNY/view?usp=sharing) | 
-|RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Convolutional Neural Networks](https://drive.google.com/file/d/1Y18fPw4aECoLOINi8Jdj2NM37uvM5tvk/view?usp=sharing) | 
-|RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
-|RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
 
 
 <!-- 
