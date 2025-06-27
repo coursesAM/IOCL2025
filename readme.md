@@ -51,7 +51,7 @@ The course includes theory and practice (notably the tutorial (T)).
 |RN (blue) | CNN with Keras/TensorFlow2 (Practical) | [Convolutional Neural Networks](https://drive.google.com/file/d/1Y18fPw4aECoLOINi8Jdj2NM37uvM5tvk/view?usp=sharing) | 
 |RN (blue) | RNN (LSTM) with Keras/TensorFlow2 (Practical) | [LSTM](https://drive.google.com/file/d/1-yZIJEPkshEYWOe63n3GrqXSqvgaH-s6/view?usp=sharing) | 
 |RN (blue) | Decision Trees and Random Forest (Practical) | [DT/RF](https://drive.google.com/file/d/1R0KcxRUw0IS8GfhvM5rtNhSiJwR3WZKQ/view?usp=sharing) |
-|RN (blue) | Acccuracy Metrics for Binary Classification (Theory) | (Metrics)[Lectures/ClassificationMetrics.pdf] |
+|RN (blue) | Acccuracy Metrics for Binary Classification (Theory) | [Metrics](Lectures/ClassificationMetrics.pdf) |
 
 
 <br> <br>
