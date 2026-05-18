@@ -141,5 +141,6 @@ Please repeat the task using this [real dataset](https://raw.githubusercontent.c
 
 ## Grading  
 
-Please take this [QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSc42j8B0E8pMMEzy8TG_39-dHP8cHFe10Xuisr65a4d-1CG1g/viewform?usp=sharing&ouid=107710220310663705982)
+<!-- Please take this [QUIZ](https://docs.google.com/forms/d/e/1FAIpQLSc42j8B0E8pMMEzy8TG_39-dHP8cHFe10Xuisr65a4d-1CG1g/viewform?usp=sharing&ouid=107710220310663705982)
+-->
 
